@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yet-another-kanban/static/css/main.f713df76.chunk.css",
+    "main.js": "/yet-another-kanban/static/js/main.4ede7818.chunk.js",
+    "main.js.map": "/yet-another-kanban/static/js/main.4ede7818.chunk.js.map",
+    "runtime-main.js": "/yet-another-kanban/static/js/runtime-main.aff4a8c0.js",
+    "runtime-main.js.map": "/yet-another-kanban/static/js/runtime-main.aff4a8c0.js.map",
+    "static/js/2.e3307402.chunk.js": "/yet-another-kanban/static/js/2.e3307402.chunk.js",
+    "static/js/2.e3307402.chunk.js.map": "/yet-another-kanban/static/js/2.e3307402.chunk.js.map",
+    "index.html": "/yet-another-kanban/index.html",
+    "static/css/main.f713df76.chunk.css.map": "/yet-another-kanban/static/css/main.f713df76.chunk.css.map",
+    "static/js/2.e3307402.chunk.js.LICENSE.txt": "/yet-another-kanban/static/js/2.e3307402.chunk.js.LICENSE.txt",
+    "static/media/Dashboard.css": "/yet-another-kanban/static/media/background.1ae39a95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff4a8c0.js",
+    "static/js/2.e3307402.chunk.js",
+    "static/css/main.f713df76.chunk.css",
+    "static/js/main.4ede7818.chunk.js"
+  ]
+}
